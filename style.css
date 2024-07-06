@@ -1,0 +1,319 @@
+body{
+	font-family: sans-serif;
+	margin: 0px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.footflex{
+	margin-left:60px; 
+	display:flex;
+}
+.infolfb{
+	font-size: 20px;
+}
+.learnfrombest{
+	font-size:80px; 
+	color: #22333b;
+}
+.header{
+	padding-bottom: 191px;
+	background: linear-gradient(90deg, rgba(31,212,161,1) 0%, rgba(16,185,137,1) 100%);
+}
+.imgnthlastcont1{
+	width:836px; 
+	height:524px;
+}
+.lastcontmargin{
+	margin-left:80px;
+}
+.lastconth3{
+	width: 550px;
+}
+.lastconth1{
+	font-size: 60px;
+}
+.h1c2{
+	font-size: 50px;
+}
+.h2c2{
+	font-size: 20px;
+	 width: 700px;
+}
+#mlmtc2{
+ 	margin-top: 50px; 
+ 	display:block; 
+ 	margin-left: 50px; 
+ 	color: white;
+}
+.footdistance{
+	margin-left: 500px; 
+	display: flex; 
+	margin-top: 10px;
+}
+.imgc2{
+	height: 390px;
+	width: 600px;
+	margin-top: 100px; 
+	border-top-right-radius: 150px;
+}
+.mlc2{
+	margin-left: 50px;
+}
+.container{
+	margin-top: 20px;
+}
+.popularmotionflexescont{
+	text-align: center; 
+	font-size: 50px; 
+	margin-top: 100px;
+}
+.popularmotionflexes{ 
+	display: flex;
+	margin-left: 160px;
+	margin-top: 50px;
+	text-align: center;
+} 
+.headtop{
+	margin-left: 130px;
+}
+.headlink{
+	color: white;
+	font-weight:700;
+	font-size:20px;
+	margin: 50px;
+}
+.headmiddle{
+	color: white;
+	margin-top: 100px;
+	text-align: center;
+}
+.learn{
+	letter-spacing: 3px;
+	font-family: system-ui;
+	font-size: 50px;
+	width: 600px;
+	margin-left: 31%;
+}
+.whatwedo{
+	word-spacing: 2px;
+	letter-spacing: 1px;
+	width: 800px;
+	font-size:20px;
+	margin-left: 24%;
+}
+.butnbutn{
+	margin-top: 80px;
+	width: 250px;
+	height: 70px;
+	border-top-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-style:none;
+}
+#butn1butn{
+	background-color: #ff9830;
+}
+.butntxt{
+	font-size: 20px;
+	color: white;
+}
+.contfirsthalf{
+	align-content: center;
+	align-self: center;
+	text-align: center;
+}
+.chalflex{
+	display: flex;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.chfqgt{
+	color: rgba(16,185,137,1);
+	font-size: 80px;
+}
+.chfqlt{
+	font-size: 20px;
+}
+.c1flex{
+	display: flex;
+}
+#butn2butn{
+	background-color: rgba(16,185,137,1);
+}
+.c1text{
+	width: 800px;
+	margin-left: 50px;
+}
+.c1imgs{
+	word-spacing:40px;
+	line-height: 100px;
+	display: inline-block;
+	width: 1000px;
+	margin:110px;
+}
+.c1img{
+	height:200px;
+	width: 200px;
+}
+#c1i1{
+	border-bottom-left-radius: 50%;
+}
+#c1i2{
+	border-bottom-right-radius: 50%;
+	border-top-left-radius: 50%;
+}
+#c1i3{
+	border-bottom-right-radius: 50%;
+}
+#c1i4{
+	border-top-left-radius: 50%;
+}
+#c1i5{
+	border-top-right-radius: 50%;
+}
+#c2{
+	height:600px;
+	margin-top: 50px;
+	background: linear-gradient(90deg, rgba(31,212,161,1) 0%, rgba(16,185,137,1) 100%);
+}
+.popularcoursesflex{
+	display: block;
+	border-radius: 20px;
+	margin-left: 4.5%;
+	box-shadow: 2 2 2 black;
+}
+.popularcoursesimages{
+	height: 200px;
+	width: 200px;
+	text-align: center;
+}
+.footblock{
+	margin-left: 80px;
+	display: block;
+	line-height: 50px;
+}
+.betterlinkdes{
+	display: block;
+	text-decoration-line: none;
+	text-underline-position: none;
+}
+@media screen and (max-width: 480px) {
+.headtop{
+	display: inline-block;
+	margin-left:20px;
+	margin-top:10px;
+}
+.header{
+	padding-bottom: 100px;
+}
+.headlink{
+	margin: 18px;
+	font-size: 15px;
+}
+.headlink:nth-last-child(3){
+	margin-left: 60px;
+}
+.headmiddle{
+	margin-top: 130px;
+}
+.learn{
+	margin-top: 50px;
+	font-size:30px;
+	margin-left:5px;
+	width: auto;
+}
+.whatwedo{
+	width: auto;
+	margin: 0px;
+	font-size: 10px;
+	margin-left: 7px;
+}
+.chalflex{
+	display: block;
+}
+.chfqgt{
+	font-size: 60px;
+}
+.chfqlt{
+	margin-left: 18%;
+	width: 250px;
+}
+.contsechalf{
+	margin-top: 100px;
+}
+.c1imgs{
+	display: none;
+}
+.learnfrombest{
+	font-size: 33px;
+}
+.infolfb{
+	width: 350px;
+	font-size: 15px;
+}
+.imgc2{
+	display: none;
+}
+.h1c2{
+	color: white;
+	font-size: 30px;
+}
+.h2c2{
+	font-size: 15px;
+	width: 350px;
+	color: white;
+}
+.mlc2{
+	margin-left: 20px;
+}
+#mlmtc2{
+	margin: 20px;
+}
+#c2{
+	height: auto;
+}
+.popularmotionflexescont{
+	text-align: center; 
+	font-size: 30px; 
+	margin-top: 50px;
+}
+.popularmotionflexes{ 
+	margin-top: 50px;
+	text-align: center;
+	display: block;
+	margin-left: auto;
+} 
+.butnform:nth-last-child(2){
+	text-align: center;
+}
+.imgnthlastcont1{
+	display: none;
+}
+.lastcontmargin{
+	margin-bottom: 20px;
+	margin-left:20px;
+}
+.lastconth1{
+	width:320px;
+	font-size: 35px;
+}
+.lastconth3{
+	width: 400px;
+}
+.footflex{
+	margin-left:70px; 
+	display:block;
+}
+.footblock{
+	margin-left: 0px;
+}
+.betterlinkdes{
+	font-size: 20px;
+}
+.footdistance{
+	margin-left: 10px; 
+	display: flex; 
+	margin-top: 10px;
+}
+}
